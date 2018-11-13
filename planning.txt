@@ -1,0 +1,40 @@
+3 Sets of Data:
+
+- save text about Projects
+- work to set goals and milestones
+- keep track of milestones
+- 
+
+
+
+Project 1
+- I read X pages
+- I keep track of the page and something I read
+- I have a goal to be consistent
+- I have notes about where I left off
+
+Project 2
+- I program for X time
+- I keep track of my progress
+- I feel good about reaching milestones
+
+Project 3
+- I work hard at training karate
+- I keep track of milestones
+- I work hard to keep up
+
+===============================================
+
+Tracking milestones
+- i type my project
+- i type my milestone
+- i type my progress
+
+- eventually i type "achieved!"
+
+- a projectName obj
+- a milestone obj
+(multiple milestone objs)
+
+
+
