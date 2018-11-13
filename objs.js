@@ -8,9 +8,9 @@ class Project{
 
 var arrayOfMilestones = [];
 class Milestone{
-    constructor(name, progress, achieved){
+    constructor(name, achieved){
         this.name = name;
-        this.progress = [progress];
+        this.progress = [];
         this.achieved = achieved;
     }
 }

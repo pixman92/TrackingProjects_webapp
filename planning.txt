@@ -37,4 +37,10 @@ Tracking milestones
 (multiple milestone objs)
 
 
-
+- i login
+- i type my project for new project
+- i select a previous project
+- i add some milestones
+- OR
+- i add new ones
+- then i add progress to these milestones

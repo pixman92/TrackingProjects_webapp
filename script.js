@@ -5,5 +5,12 @@ function createMilestone(name){
 }
 
 function addProgressToMilestone(progress){
-    milestoneObj.progress.append(progress);
+    var len = milestoneObj.progress.length;
+    milestoneObj.progress[len] =  progress;
+}
+
+//================================================
+
+function passMilestoneToFirebase(){
+    
 }
